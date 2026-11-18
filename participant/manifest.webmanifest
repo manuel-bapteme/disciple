@@ -1,5 +1,5 @@
 {
-  "name": "Veux-tu être Son disciple ?",
+  "name": "Participant · Veux-tu être Son disciple ?",
   "short_name": "Disciple",
   "description": "Préparation au baptême par immersion : écouter, lire et répondre.",
   "lang": "fr",
@@ -7,5 +7,12 @@
   "display": "standalone",
   "background_color": "#f6f7f7",
   "theme_color": "#0E7C7B",
-  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }

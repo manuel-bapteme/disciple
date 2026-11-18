@@ -1,0 +1,18 @@
+{
+  "name": "Accompagnant · Veux-tu être Son disciple ?",
+  "short_name": "Accompagnant",
+  "description": "Livret de l’accompagnant, avec les réponses.",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f7",
+  "theme_color": "#7A3E9D",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
